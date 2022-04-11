@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\bin\Debug\net6.0\Q.13.exe
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\bin\Debug\net6.0\Q.13.deps.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\bin\Debug\net6.0\Q.13.runtimeconfig.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\bin\Debug\net6.0\Q.13.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\bin\Debug\net6.0\Q.13.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\refint\Q.13.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\Q.13.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.13\obj\Debug\net6.0\ref\Q.13.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\bin\Debug\net6.0\Q.15.exe
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\bin\Debug\net6.0\Q.15.deps.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\bin\Debug\net6.0\Q.15.runtimeconfig.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\bin\Debug\net6.0\Q.15.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\bin\Debug\net6.0\Q.15.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\refint\Q.15.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\Q.15.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.15\obj\Debug\net6.0\ref\Q.15.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\bin\Debug\net6.0\Q.21.exe
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\bin\Debug\net6.0\Q.21.deps.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\bin\Debug\net6.0\Q.21.runtimeconfig.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\bin\Debug\net6.0\Q.21.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\bin\Debug\net6.0\Q.21.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\refint\Q.21.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\Q.21.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.21\obj\Debug\net6.0\ref\Q.21.dll

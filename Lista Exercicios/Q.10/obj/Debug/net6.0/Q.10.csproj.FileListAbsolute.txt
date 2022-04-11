@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\Q.10.exe
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\Q.10.deps.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\Q.10.runtimeconfig.json
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\Q.10.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\ref\Q.10.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\bin\Debug\net6.0\Q.10.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\ref\Q.10.dll
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.pdb
+C:\Users\Usuario\Desktop\Importante\4° ano\PW\Lista Exercicios\Q.10\obj\Debug\net6.0\Q.10.genruntimeconfig.cache
