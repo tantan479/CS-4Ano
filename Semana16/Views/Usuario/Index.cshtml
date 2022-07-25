@@ -1,0 +1,11 @@
+@model List<Semana16.Models.Usuario>
+
+@foreach (var usuario in Model)
+{
+    <p>
+        Nome: @usuario.Nome <br>
+        Email: @usuario.Email <br>
+        <a asp-controller="Usuario" asp-action="Detalhes" asp-route-id="@usuario.IdUsuario">Ver Detalhes</a>
+    </p>
+    <hr>
+}

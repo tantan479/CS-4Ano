@@ -1,0 +1,13 @@
+dotnet new web
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+ctor // atalho para construtor
+dotnet tool install -g dotnet-ef // instala globamente
+dotnet ef migrations add v1 // adicionando uma nova versão do banco de dados
+dotnet ef database update // cria-lhe de fato o arquivo data.db
+
+Conectar o bd na extensão
+
+IClasseRepo
+ClasseRepoSqlite

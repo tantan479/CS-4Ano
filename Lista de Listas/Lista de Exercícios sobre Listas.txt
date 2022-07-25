@@ -1,0 +1,68 @@
+Lista de Exercícios de Programação para a Web
+
+01. Faça um programa que crie uma lista inicializada com 5 números inteiros desordenados e mostre-os em ordem crescente.
+	Dica: use o método Sort() de listas
+	
+02. Faça um programa que crie uma lista inicializada com 5 números inteiros desordenados e mostre-os em ordem decrescente.
+	Dica: use os métodos Sort() e Reverse()	de listas
+	
+03. Faça um programa que crie uma lista inicializada com 10 números inteiros e armazene em uma segunda lista os quadrados dos números da primeira lista, mostrando-os ao final separados por vírgula.
+	Dica: use os métodos Add() de listas, String.Join(...) e Math.Pow(...)
+
+04. Faça um programa que crie duas listas inicializadas com 10 números inteiros cada e mostre a soma dos elementos de mesmo índice (obs.: o resultado serão 10 números inteiros).
+
+05. Faça um programa que crie uma lista inicializada com os caracteres do seu nome e mostre-os como uma palavra.
+	Dica: use o método String.Join(...)
+
+06. Faça um programa que crie uma lista inicializada com os caracteres do seu nome e mostre-os como uma palavra de trás para frente.
+	Dica: use os métodos Reverse() de listas e String.Join(...)
+	
+07. Considere duas listas com os seguintes valores:
+	Lista1: { "E", "es", "progr", "usa", "lis" }
+	Lista2: { "u", "tou", "amando", "ndo", "tas" }
+	Faça um programa com duas listas inicializadas conforme acima e que una os elementos de mesmo índice dessas duas listas em uma terceira lista, mostrando os itens da terceira lista separados pelo caractere de espaço (' ').
+	Dica: use o método Add(...) de listas
+	
+08. Crie um programa com uma lista inicializada com os valores a seguir:
+	{ 8, 9, 6, 3, 7, 2, 5, 4, 1, 2, 7, 8, 5, 9, 4, 2, 3 }
+	O programa deve remover da lista todos os elementos pares e, ao fim, exibir a lista com os elementos separados por vírgula.
+	Dica: use o método Remove(...) de listas e uma estrutura "do..while"
+	
+09. Crie um programa com uma lista inicializada com os valores a seguir:
+	{ 8, 9, 6, 3, 7, 2, 5, 4, 1, 2, 7, 8, 5, 9, 4, 2, 3 }
+	O programa deve contar a quantidade de vezes que o número 2 aparece na lista.
+	Dica: use uma estrutura "foreach"
+
+10. Considere as informações a seguir relacionadas a um mapa de criptografia:	
+	Mapa: Epaço=00, A=01, B=02, C=03, D=04, E=05, F=06, G=07, H=08, I=09, J=10, K=11, L=12, M=13, N=14, O=15, P=16, Q=17, R=18, S=19, T=20, U=21, V=22, W=23, X=24, Y=25, Z=26.
+	Caracteres: { 'V', 'O', 'U', ' ', 'C', 'O', 'N', 'S', 'E', 'G', 'U', 'I', 'R' }
+	Crie um programa que substitua os valores da lista "Caracteres" por seus respectivos valores de mapeamento, armazenando-os em uma segunda lista. Ao fim, o programa deve mostrar um texto contínuo composto pela junção da lista "criptografada".
+	Dica: use o método String.Join(...)
+
+11. Faça um programa que permita ao usuário digitar uma lista de nomes de pessoas e, ao digitar "sair" no lugar do nome, mostre essa lista em ordem alfabética.
+	Dica: use os métodos Add(...) e Sort() de listas, e a estrutura "do..while"
+
+12. Faça um programa que permita ao usuário digitar uma lista de nomes de pessoas e, ao digitar "sair" no lugar do nome, mostre somente as pessoas que terminam com a letra "o".
+	Dica: use os métodos lista.Add(...) e nome.EndsWith("o"), e a estrutura "do..while"
+	
+13. Faça um programa que permita ao usuário digitar uma lista de valores inteiros até que o valor 0 seja digitado. Ao fim, o programa deve mostrar a soma, a média, o máximo, o mínimo e a quantidade dos valores digitados.
+	Dica: use os métodos Add(), Sort(), Average(), Max(), Min() e Count() de listas e a estrutura "do..while"
+	
+14. Faça um programa que permita ao usuário digitar uma lista de valores inteiros até que o valor 0 seja digitado. Em seguida, peça ao usuário que digite outra lista do tamanho da primeira, mas dessa vez de valores decimais (double). Ao fim, o programa deve mostrar o produto dos elementos de mesmo índice das duas listas.
+	Dica: use os métodos Add() e Count() de listas e as estruturas "do..while" e "for"
+	
+15. Faça um programa que permita ao usuário digitar os nomes e os preços de produtos até que seja digitado "sair" no nome de um produto. Ao fim, o programa deve exibir os produtos (nome e preço) cujo preço esteja acima da média.
+	Dica: use os métodos Add() e Average() de listas e uma estrutura "do..while"
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.csproj.AssemblyReference.cache
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.AssemblyInfo.cs
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\bin\Debug\net6.0\Exemplo.exe
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\bin\Debug\net6.0\Exemplo.deps.json
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\bin\Debug\net6.0\Exemplo.runtimeconfig.json
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\bin\Debug\net6.0\Exemplo.dll
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\bin\Debug\net6.0\Exemplo.pdb
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.dll
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\refint\Exemplo.dll
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.pdb
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\Exemplo.genruntimeconfig.cache
+C:\Users\20191IMI028\Desktop\4° ano\PW\Semana 10\Exemplo POO - Continuação\obj\Debug\net6.0\ref\Exemplo.dll

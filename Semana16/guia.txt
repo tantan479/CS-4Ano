@@ -1,0 +1,23 @@
+dotnet new mvc  // cria um projeto com o padrão mvc
+IActionResult // métodos que produzem conteudo, logo são acessiveis por endereços
+
+_ViewStart indica a pagina de layout padrão
+https://localhost:7252 = dominio /Home = controlador /Privacy = ação do controlador
+Home e Index são padrões
+
+Crair o _MyLayout em Shared
+! CTLR + ESPAÇO + ENTER
+SHIFT + ALT + F // Formatação automatica
+format on save // configuração no vscode
+Lorem30 // gera um loremipsum 
+
+Model com inicial maiuscula corresponde ao modelo ditado em @; Exemplo: Error
+
+launch.json posso definir o programa em deselvolvimento ou produção
+
+dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation // tipo o live server
+
+linha 4 em program : builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+criei o model usuario, crio seu controller, 
+por fim sua view Logo uma nova pasta para esse controlador na pasta de View
