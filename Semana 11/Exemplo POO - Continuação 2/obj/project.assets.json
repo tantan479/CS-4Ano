@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\20191IMI028\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\Exemplo.csproj",
+      "projectUniqueName": "E:\\Outros\\Importante\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\Exemplo.csproj",
       "projectName": "Exemplo",
-      "projectPath": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\Exemplo.csproj",
-      "packagesPath": "C:\\Users\\20191IMI028\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\obj\\",
+      "projectPath": "E:\\Outros\\Importante\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\Exemplo.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "E:\\Outros\\Importante\\4° ano\\PW\\Semana 11\\Exemplo POO - Continuação 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\20191IMI028\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

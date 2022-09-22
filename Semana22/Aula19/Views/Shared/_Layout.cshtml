@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/lib/bootstrap5/css/bootstrap.min.css" rel="stylesheet">
+    <script src="~/lib/bootstrap5/js/bootstrap.bundle.min.js" defer></script>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="shortcut icon" href="~/img/icon.ico" type="image/x-icon">
+    <title>Rock Stars</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">Rock Stars</a>
+            <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavId">
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-controller="Home" asp-action="Index">Principal</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="RockStar" asp-action="Index">RockStars</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container pb-5 mt-4">
+        @RenderBody()
+    </div>
+
+    <div class="p-3"></div>
+
+    <footer class="bg-dark text-light p-3 fixed-bottom">
+        Copyright &copy; Ifes 2022
+    </footer>
+</body>
+
+</html>

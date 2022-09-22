@@ -1,0 +1,24 @@
+@model IEnumerable<RockStar>
+
+<h2>Rock Stars Favoritos</h2>
+<hr>
+<a asp-controller="RockStar" asp-action="Cadastrar" class="btn btn-success btn-lg">Novo Rock Star</a>
+
+
+<div class="row g-4">
+    @foreach (var rs in Model)
+    {
+        <div class="col-3">
+            <div class="card">
+                <img class="card-img-top" src="~/img/rs@(rs.Id).jpg" alt="@rs.Nome">
+                <div class="card-body">
+                    <h4 class="card-title">@rs.Nome</h4>
+                    <p class="card-text">@rs.Descricao</p>
+                </div>
+                <div class="card-footer text-center p-3">
+                    <a href="/RockStar/Detalhes/@rs.Id" class="btn btn-primary">Ver Detalhes</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "iE3PRYjb1fjej9jdCodFaWQfHRsWmop2jVLRalceI10=",
+  "Source": "Semana19",
+  "BasePath": "_content/Semana19",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Semana19\\wwwroot",
+      "Source": "Semana19",
+      "ContentRoot": "E:\\Outros\\Importante\\4° ano\\PW\\Semana19\\wwwroot\\",
+      "BasePath": "_content/Semana19",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Outros\\Importante\\4° ano\\PW\\Semana19\\wwwroot\\css\\styles.css",
+      "SourceId": "Semana19",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Outros\\Importante\\4° ano\\PW\\Semana19\\wwwroot\\",
+      "BasePath": "_content/Semana19",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}

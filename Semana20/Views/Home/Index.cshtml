@@ -1,0 +1,20 @@
+@model List<RockStar>
+
+<div class="row g-5">
+@foreach (var rs in Model)
+{
+    <div class="col-3">
+        <div class="card" style="width: 18rem;">
+                <img src="~/img/rs@(rs.Id).webp" class="card-img-top" alt="@rs.Nome">
+                <div class="card-body">
+                    <h5 class="card-title">@rs.Nome</h5>
+                    <p class="card-text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos odit veniam ipsum tempora ullam nobis exercitationem asperiores voluptas quidem perspiciatis.</p>
+                </div>
+                <div class="card-footer text-center p-3">
+                    <a href="/Home/Detalhes/@rs.Id" class="btn btn-primary">Ver Detalhes</a>
+                </div>
+        </div>
+    </div>
+    
+}
+</div>

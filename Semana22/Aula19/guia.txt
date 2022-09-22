@@ -1,0 +1,22 @@
+dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation // compilação das views sem recharge no programa nn vscode
+linha 2 em program: builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+instalação daqueles pacotes para rodar o banco de dados
+
+Crie AppDbContext na pasta Data
+
+Add isso no program:
+
+builder.Services.AddDbContext<AppDbContext>(options => 
+{
+
+});
+
+--------------------- Dia 15/09/22 ---------------------
+
+IEnumerable<RockStar> em vez de usar lista em Index.cshtml. Pois ele é mais leve
+
+Em HomeController:
+var rockStars = _db.RockStars.AsNoTracking().ToList(); // ganho de performance pois o sqlite não fica vistoriando minhas açoes nos dados
+
+

@@ -1,0 +1,73 @@
+No program.cs:
+
+adicionar => builder.Services.AddControllersWithViews();
+
+apagar => app.MapGet("/", () => "Hello World!");
+
+adicionar => 
+if(!app.Environment.IsDevelopment()){
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+}
+
+digite no terminal (agora o localhost será considerado válido pelo navegador)=> 
+dotnet dev-certs https --trust
+
+adicione =>
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapDefaultControllerRoute();
+
+Crie na raiz a pasta =>
+Controllers
+Views
+Models
+wwwroot
+
+Dentro de Controllers =>
+
+    Criar HomeController.cs
+
+Dentro de Views =>
+    Pasta Home (Armazena as view do Controller Home)
+        Home:
+            Cria Arquivo index.cshtml
+
+Dentro de Models =>
+    Criar Usuario.cs
+
+Dentro de HomeController.cs =>
+    Usuario eu = new Usuario();
+    eu.Id = 1;
+    eu.Nome = "Renato";
+    eu.Email = "renatoribeiroalto@gmail.com";
+    return View(eu);
+
+Dentro de Index.cshtml => 
+    @model Semana19.Models.Usuario
+
+Dentro de Views =>
+    Criar pasta Shared
+        Criar _layout.cshtml
+
+Mudanças em index.cshtml...
+
+Adição o RenderBody em _Layout
+
+Criação de _ViewStart.cshtml em Views
+Criação de _ViewImports.cshtml em Views
+Crie as pastas em wwwroot
+    Crie o arquivo styles.css
+    importar o css no _Layout
+
+coloque bootstrap acima do css
+
+
+-------------- Continuação --------------
+
+E Lá Vamos Nós...
+
+PIPELINE
+
+Exceção é o primeiro, pois dessa forma garantimos que ele apresentara a Exceção de erro em qualquer outro modui 

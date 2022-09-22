@@ -1,0 +1,9 @@
+@model Semana16.Models.Usuario
+
+<h2>Detalhes do Usuario @Model.Nome</h2>
+
+<p>
+    E-mail: @Model.Email <br>
+    Telefone: @Model.Telefone <br>
+    Data Nascimento: @Model.DataNascimento.ToShortDateString()
+</p>

@@ -1,5 +1,4 @@
 using System;
-
 class Veiculo
 {
     public string Marca;

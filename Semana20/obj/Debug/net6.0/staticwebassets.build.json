@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "fy4M7qKZdCIOmQfMv5HXcmJ7qqaXr6Sx4GHNCxOc/DQ=",
+  "Source": "Semana20",
+  "BasePath": "_content/Semana20",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Semana20\\wwwroot",
+      "Source": "Semana20",
+      "ContentRoot": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana20\\wwwroot\\",
+      "BasePath": "_content/Semana20",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana20\\wwwroot\\css\\styles.css",
+      "SourceId": "Semana20",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana20\\wwwroot\\",
+      "BasePath": "_content/Semana20",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana20\\wwwroot\\img\\rs2.webp",
+      "SourceId": "Semana20",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\20191IMI028\\Desktop\\4° ano\\PW\\Semana20\\wwwroot\\",
+      "BasePath": "_content/Semana20",
+      "RelativePath": "img/rs2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\rs2.webp"
+    }
+  ]
+}
